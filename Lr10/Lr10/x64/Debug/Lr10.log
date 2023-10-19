@@ -1,0 +1,104 @@
+﻿  Source.cpp
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(8,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,9): error C2065: 'finit': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,16): error C2065: 'Очистити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,33): error C2146: syntax error: missing ';' before identifier 'регістри'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,33): error C2065: 'регістри': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,50): error C2146: syntax error: missing ';' before identifier 'FPU'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(9,50): error C2065: 'FPU': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,9): error C2065: 'fld': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,17): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,20): error C2065: 'Завантажити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,43): error C2146: syntax error: missing ';' before identifier 'значення'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,43): error C2065: 'значення': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,60): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,62): error C2146: syntax error: missing ';' before identifier 'в'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,62): error C2065: 'в': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,65): error C2146: syntax error: missing ';' before identifier 'стек'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,65): error C2065: 'стек': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,74): error C2146: syntax error: missing ';' before identifier 'FPU'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(10,74): error C2065: 'FPU': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,9): error C2065: 'fmul': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,17): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,20): error C2065: 'Помножити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,39): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,41): error C2146: syntax error: missing ';' before identifier 'на'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,41): error C2065: 'на': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,46): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,53): error C2296: '^': illegal, left operand has type 'float'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(11,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,9): error C2065: 'fld1': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,15): error C2065: 'Завантажити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,38): error C2146: syntax error: missing ';' before identifier 'константу'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,38): error C2065: 'константу': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,57): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,61): error C2146: syntax error: missing ';' before identifier 'в'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,61): error C2065: 'в': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,64): error C2146: syntax error: missing ';' before identifier 'стек'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,64): error C2065: 'стек': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,73): error C2146: syntax error: missing ';' before identifier 'FPU'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(12,73): error C2065: 'FPU': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,9): error C2065: 'fmul': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,17): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,22): error C2065: 'Помножити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,41): error C2146: syntax error: missing ';' before identifier 'на'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,41): error C2065: 'на': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,46): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,51): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(13,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,9): error C2065: 'fld': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,17): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,20): error C2065: 'Завантажити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,43): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,45): error C2146: syntax error: missing ';' before identifier 'в'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,45): error C2065: 'в': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,48): error C2146: syntax error: missing ';' before identifier 'стек'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,48): error C2065: 'стек': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,57): error C2146: syntax error: missing ';' before identifier 'FPU'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,61): error C2065: 'другий': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,74): error C2146: syntax error: missing ')' before identifier 'раз'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,57): error C3861: 'FPU': identifier not found
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,74): error C2146: syntax error: missing ';' before identifier 'раз'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,80): error C2059: syntax error: ')'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(14,74): error C2065: 'раз': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,9): error C2065: 'fmul': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,17): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,22): error C2065: 'Помножити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,41): error C2146: syntax error: missing ';' before identifier 'на'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,41): error C2065: 'на': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,46): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,51): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(15,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,9): error C2146: syntax error: missing ';' before identifier 'fadd'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,9): error C2065: 'fadd': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,15): error C2065: 'Додати': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,28): error C2146: syntax error: missing ';' before identifier 'результат'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,28): error C2065: 'результат': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,47): error C2143: syntax error: missing ';' before 'user-defined literal'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,47): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,52): error C2146: syntax error: missing ';' before identifier 'до'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,52): error C2065: 'до': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,57): error C2143: syntax error: missing ';' before 'user-defined literal'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(16,57): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,9): error C2065: 'fld': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,17): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,24): error C2065: 'Завантажити': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,47): error C2146: syntax error: missing ';' before identifier 'константу'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,47): error C2065: 'константу': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,66): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,71): error C2146: syntax error: missing ';' before identifier 'в'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,71): error C2065: 'в': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,74): error C2146: syntax error: missing ';' before identifier 'стек'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,74): error C2065: 'стек': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,83): error C2146: syntax error: missing ';' before identifier 'FPU'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(17,83): error C2065: 'FPU': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'fadd'
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(18,9): error C2065: 'fadd': undeclared identifier
+C:\Users\ADMIN\source\repos\Lr10\Lr10\Source.cpp(18,13): fatal error C1003: error count exceeds 100; stopping compilation
